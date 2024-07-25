@@ -1,0 +1,8 @@
+{
+  "name": "your-Login",
+  "description": "A simple PHP app",
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "ext-mysqli": "*"
+  }
+}
